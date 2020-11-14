@@ -1,7 +1,7 @@
 {
   "name": "on7-porto-s14-projeto",
   "version": "1.0.0",
-  "description": "",
+  "description": "<h1 align=\"center\">\r     <br>\r     <p align=\"center\">Reprograma - Semana 14 (Revisão)<p>\r </h1>",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -18,6 +18,10 @@
   },
   "homepage": "https://github.com/reprograma/on7-porto-s14-projeto#readme",
   "dependencies": {
-    "express": "^4.17.1"
-  }
+    "express": "^4.17.1",
+    "mongoose": "^5.10.13",
+    "nodemon": "^2.0.6"
+  },
+  "devDependencies": {},
+  "keywords": []
 }
